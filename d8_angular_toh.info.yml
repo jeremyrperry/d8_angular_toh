@@ -1,0 +1,8 @@
+name: Drupal 8 Angular Tour of Heroes
+description: A Drupal 8 Implementation of the Angular 4.x. Tour of Heroes Tutorial
+package: Custom
+
+type: module
+core: 8.x
+libraries:
+  - d8_angular_toh/d8_angular_toh

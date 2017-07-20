@@ -1,0 +1,6 @@
+d8_angular_toh.admin:
+  title: 'D8 Angular Tour of Heroes settings'
+  description: 'Adjust the settings for the D8 Angular Tour of Heroes module'
+  parent: system.admin_config_development
+  route_name: angular_demo.content
+  weight: 100
