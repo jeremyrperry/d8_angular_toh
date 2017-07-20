@@ -1,4 +1,4 @@
-d8_angular_starter.content:
+d8_angular_toh.content:
   path: '/angular-toh'
   defaults:
     _controller: '\Drupal\d8_angular_toh\Controller\AngularTohController::content'
